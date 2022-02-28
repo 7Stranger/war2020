@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/7Stranger.github.io/war2020/static/css/main.27905da0.css",
+    "main.js": "/7Stranger.github.io/war2020/static/js/main.03f98c58.js",
+    "index.html": "/7Stranger.github.io/war2020/index.html",
+    "main.27905da0.css.map": "/7Stranger.github.io/war2020/static/css/main.27905da0.css.map",
+    "main.03f98c58.js.map": "/7Stranger.github.io/war2020/static/js/main.03f98c58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27905da0.css",
+    "static/js/main.03f98c58.js"
+  ]
+}
