@@ -1,5 +1,18 @@
 .App {
   text-align: center;
+  display: grid;
+  justify-content: center;
+  padding: 20px;
+}
+
+.main_wrapper {
+  width: 1200px;
+}
+
+@media screen and (max-width: 500px) {
+  .main_wrapper {
+      width: 400px;
+  }
 }
 
 .App-logo {
@@ -35,4 +48,27 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.main_wrapper {
+  color: white;
+}
+
+.table {
+  height: 80vh;
+  width: 100%;
+  color: white;
+
+}
+
+.MuiDataGrid-row {
+  user-select: none;
+}
+
+.tag {
+  opacity: 5%;
+}
+
+.MuiDataGrid-cell {
+  max-height: 200px !important;
 }
